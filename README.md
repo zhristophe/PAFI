@@ -4,12 +4,12 @@ PAFI: A Tool for Path Feasibility Analysis
 ## Usage
 
 | Option       | Description                    |
-|--------------|-------------------------------|
+|--------------|--------------------------------|
 | -h, --help   | Show this help message.        |
 | -c, --code   | Enable code output.            |
 | -a, --ast    | Enable AST output.             |
 | -m, --model  | Enable model output.           |
-| -t, --time   | Enable time logging.           |
+| -t, --time   | Enable time output.            |
 | other        | The path of input file.        |
 
 For example:
